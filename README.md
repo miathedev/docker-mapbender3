@@ -6,16 +6,7 @@ Modified by Mia Metzler to support newer releases and add CI build scripts.
 
 ## Supported tags
 
-* `3.0.8`, `latest`
-* `3.0.7.7`
-* ~~`3.0.7.6`~~
-* `3.0.7.5`
-* `3.0.7.4`
-* `3.0.7.3`
-* `3.0.6.3`
-* `3.0.6.2`
-* `3.0.6.1`
-* `3.0.6.0`
+see Packages on the menu to the right
 
 ## What is Mapbender
 
