@@ -78,7 +78,7 @@ jobs:
           cache-from: type=gha
           cache-to: type=gha,mode=max
           build-args: |
-            MAPBENDER_VERSION='${{ github.event.inputs.mapbender_version }}'
+            MAPBENDER_VERSION=${{ github.event.inputs.mapbender_version }}
 
 
       # Sign the resulting Docker image digest except on PRs.
